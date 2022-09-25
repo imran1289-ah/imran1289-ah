@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imran Ahmed</h1>
 <h3 align="center">Third Year Engineering Student at Concordia University 
-<h3 align="center">Passionate about web development</h3>
+<h3 align="center">Passionate about full-stack development</h3>
 
 - 🔭 I’m currently working on [HighlighTube](https://github.com/imran1289-ah/HighlightTube), [CommunityApp](https://github.com/imran1289-ah/SOEN343_CommunityApp), [E-Learning Platform](https://github.com/imran1289-ah/SOEN342_TeamB)
 
