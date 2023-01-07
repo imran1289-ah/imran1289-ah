@@ -2,7 +2,7 @@
 <h3 align="center">Third Year Engineering Student at Concordia University 
 <h3 align="center">Passionate about full-stack development</h3>
 
-- 🔭 I’m currently working on [HighlighTube](https://github.com/imran1289-ah/HighlightTube)
+<!-- - 🔭 I’m currently working on  -->
 
 - 🌱 I’m currently learning **React, Node.js, Express and MongoDB**
 
