@@ -2,7 +2,7 @@
 <h3 align="center">Third Year Engineering Student at Concordia University 
 <h3 align="center">Passionate about full-stack development</h3>
 
-<!-- - 🔭 I’m currently working on  -->
+🔭 I’m currently working on [Linkedin Clone App](https://github.com/imran1289-ah/SOEN390-Team05-W23)
 
 - 🌱 I’m currently learning **React, Node.js, Express and MongoDB**
 
