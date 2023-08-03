@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imran Ahmed</h1>
-<h3 align="center">Third Year Engineering Student at Concordia University 
+<h3 align="center">Fourth Year Engineering Student at Concordia University 
 <h3 align="center">Passionate about full-stack development</h3>
 
    🔭 I’m currently working on NOTHING
