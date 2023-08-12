@@ -4,7 +4,7 @@
 
    🔭 I’m currently working on NOTHING
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **Firebase, Next.JS**
 
 - 📫 Reach me by email or LinkedIn **imran_g123@hotmail.com**
 
