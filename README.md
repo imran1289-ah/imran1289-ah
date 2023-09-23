@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Imran Ahmed</h1>
-<h3 align="center">Fourth Year Engineering Student at Concordia University 
+<h3 align="center">Fourth Year Engineering Student at Concordia University></h3>
 
-   🔭 I’m currently working on NOTHING
+-  🔭 I’m currently working on School Projects
 
-- 🌱 I’m currently learning **Firebase, Next.JS**
+- 🌱 I’m currently learning **Next.JS**
 
 - 📫 Reach me by email or LinkedIn **imran_g123@hotmail.com**
 
