@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imran Ahmed</h1>
-<h3 align="center">Fourth Year Engineering Student at Concordia University></h3>
+<h3 align="center">Recent Engineering Graduate from Concordia University></h3>
 
 
 - 📫 Reach me by email or LinkedIn **imran_g123@hotmail.com**
